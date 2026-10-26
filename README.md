@@ -13,8 +13,6 @@
 
 <p>Unauthenticated remote code execution chain exploiting OOM memory corruption and stale global state in PHP.</p>
 
-<p>Part of the <a href="https://github.com/nostraxiten/AWESOME-CVE-S">AWESOME-CVE'S</a> series.</p>
-
 </div>
 
 ---
